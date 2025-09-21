@@ -1,0 +1,4 @@
+strands
+bedrock-agentcore
+boto3
+botocore
